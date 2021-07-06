@@ -1,6 +1,5 @@
-# Hash Table on Clang
+# Hash Table on C
 
-## Usage
 ```bash
  make build
 ```
